@@ -75,6 +75,7 @@ namespace Ui
         {
             save();
             MessageBox.Show("Saved", "DONE!");
+            SendKeys.Send("^{F1}");
         }
 
         private void ReadData()

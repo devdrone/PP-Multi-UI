@@ -225,33 +225,34 @@
             this.EnemyBoxOutlineWidth.Location = new System.Drawing.Point(126, 122);
             this.EnemyBoxOutlineWidth.Name = "EnemyBoxOutlineWidth";
             this.EnemyBoxOutlineWidth.Size = new System.Drawing.Size(63, 20);
-            this.EnemyBoxOutlineWidth.TabIndex = 4;
+            this.EnemyBoxOutlineWidth.TabIndex = 5;
             // 
             // EnemyBoxOutlineColor
             // 
+            this.EnemyBoxOutlineColor.DropDownWidth = 130;
             this.EnemyBoxOutlineColor.FormattingEnabled = true;
             this.EnemyBoxOutlineColor.Location = new System.Drawing.Point(126, 95);
             this.EnemyBoxOutlineColor.Name = "EnemyBoxOutlineColor";
             this.EnemyBoxOutlineColor.Size = new System.Drawing.Size(63, 21);
-            this.EnemyBoxOutlineColor.TabIndex = 3;
+            this.EnemyBoxOutlineColor.TabIndex = 4;
             // 
             // EnemyBoxLineWidth
             // 
             this.EnemyBoxLineWidth.Location = new System.Drawing.Point(126, 69);
             this.EnemyBoxLineWidth.Name = "EnemyBoxLineWidth";
             this.EnemyBoxLineWidth.Size = new System.Drawing.Size(63, 20);
-            this.EnemyBoxLineWidth.TabIndex = 2;
+            this.EnemyBoxLineWidth.TabIndex = 3;
             // 
             // EnemyBoxColor
             // 
             this.EnemyBoxColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.EnemyBoxColor.DropDownWidth = 151;
+            this.EnemyBoxColor.DropDownWidth = 130;
             this.EnemyBoxColor.FormattingEnabled = true;
             this.EnemyBoxColor.Location = new System.Drawing.Point(126, 42);
             this.EnemyBoxColor.Name = "EnemyBoxColor";
             this.EnemyBoxColor.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.EnemyBoxColor.Size = new System.Drawing.Size(63, 21);
-            this.EnemyBoxColor.TabIndex = 1;
+            this.EnemyBoxColor.TabIndex = 2;
             // 
             // EBoxCheck
             // 
@@ -259,7 +260,7 @@
             this.EBoxCheck.Location = new System.Drawing.Point(6, 19);
             this.EBoxCheck.Name = "EBoxCheck";
             this.EBoxCheck.Size = new System.Drawing.Size(59, 17);
-            this.EBoxCheck.TabIndex = 0;
+            this.EBoxCheck.TabIndex = 1;
             this.EBoxCheck.Text = "Enable";
             this.EBoxCheck.UseVisualStyleBackColor = true;
             // 
@@ -323,33 +324,34 @@
             this.FriendlyBoxOutlineWidth.Location = new System.Drawing.Point(126, 122);
             this.FriendlyBoxOutlineWidth.Name = "FriendlyBoxOutlineWidth";
             this.FriendlyBoxOutlineWidth.Size = new System.Drawing.Size(63, 20);
-            this.FriendlyBoxOutlineWidth.TabIndex = 4;
+            this.FriendlyBoxOutlineWidth.TabIndex = 20;
             // 
             // FriendlyBoxOutlineC
             // 
+            this.FriendlyBoxOutlineC.DropDownWidth = 130;
             this.FriendlyBoxOutlineC.FormattingEnabled = true;
             this.FriendlyBoxOutlineC.Location = new System.Drawing.Point(126, 95);
             this.FriendlyBoxOutlineC.Name = "FriendlyBoxOutlineC";
             this.FriendlyBoxOutlineC.Size = new System.Drawing.Size(63, 21);
-            this.FriendlyBoxOutlineC.TabIndex = 3;
+            this.FriendlyBoxOutlineC.TabIndex = 19;
             // 
             // FriendlyBoxLineWidth
             // 
             this.FriendlyBoxLineWidth.Location = new System.Drawing.Point(126, 69);
             this.FriendlyBoxLineWidth.Name = "FriendlyBoxLineWidth";
             this.FriendlyBoxLineWidth.Size = new System.Drawing.Size(63, 20);
-            this.FriendlyBoxLineWidth.TabIndex = 2;
+            this.FriendlyBoxLineWidth.TabIndex = 18;
             // 
             // FriendlyBoxColor
             // 
             this.FriendlyBoxColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.FriendlyBoxColor.DropDownWidth = 151;
+            this.FriendlyBoxColor.DropDownWidth = 130;
             this.FriendlyBoxColor.FormattingEnabled = true;
             this.FriendlyBoxColor.Location = new System.Drawing.Point(126, 42);
             this.FriendlyBoxColor.Name = "FriendlyBoxColor";
             this.FriendlyBoxColor.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.FriendlyBoxColor.Size = new System.Drawing.Size(63, 21);
-            this.FriendlyBoxColor.TabIndex = 1;
+            this.FriendlyBoxColor.TabIndex = 17;
             // 
             // FBoxCheck
             // 
@@ -357,7 +359,7 @@
             this.FBoxCheck.Location = new System.Drawing.Point(6, 19);
             this.FBoxCheck.Name = "FBoxCheck";
             this.FBoxCheck.Size = new System.Drawing.Size(59, 17);
-            this.FBoxCheck.TabIndex = 0;
+            this.FBoxCheck.TabIndex = 16;
             this.FBoxCheck.Text = "Enable";
             this.FBoxCheck.UseVisualStyleBackColor = true;
             // 
@@ -402,7 +404,7 @@
             this.TargetEnemyBoxOutlineWidth.Location = new System.Drawing.Point(126, 122);
             this.TargetEnemyBoxOutlineWidth.Name = "TargetEnemyBoxOutlineWidth";
             this.TargetEnemyBoxOutlineWidth.Size = new System.Drawing.Size(63, 20);
-            this.TargetEnemyBoxOutlineWidth.TabIndex = 4;
+            this.TargetEnemyBoxOutlineWidth.TabIndex = 35;
             // 
             // label19
             // 
@@ -415,11 +417,12 @@
             // 
             // TargetEnemyBoxOutlineColor
             // 
+            this.TargetEnemyBoxOutlineColor.DropDownWidth = 130;
             this.TargetEnemyBoxOutlineColor.FormattingEnabled = true;
             this.TargetEnemyBoxOutlineColor.Location = new System.Drawing.Point(126, 95);
             this.TargetEnemyBoxOutlineColor.Name = "TargetEnemyBoxOutlineColor";
             this.TargetEnemyBoxOutlineColor.Size = new System.Drawing.Size(63, 21);
-            this.TargetEnemyBoxOutlineColor.TabIndex = 3;
+            this.TargetEnemyBoxOutlineColor.TabIndex = 34;
             // 
             // label20
             // 
@@ -435,18 +438,18 @@
             this.TargetEnemyBoxLineWidth.Location = new System.Drawing.Point(126, 69);
             this.TargetEnemyBoxLineWidth.Name = "TargetEnemyBoxLineWidth";
             this.TargetEnemyBoxLineWidth.Size = new System.Drawing.Size(63, 20);
-            this.TargetEnemyBoxLineWidth.TabIndex = 2;
+            this.TargetEnemyBoxLineWidth.TabIndex = 33;
             // 
             // TargetEnemyBoxColor
             // 
             this.TargetEnemyBoxColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.TargetEnemyBoxColor.DropDownWidth = 151;
+            this.TargetEnemyBoxColor.DropDownWidth = 130;
             this.TargetEnemyBoxColor.FormattingEnabled = true;
             this.TargetEnemyBoxColor.Location = new System.Drawing.Point(126, 42);
             this.TargetEnemyBoxColor.Name = "TargetEnemyBoxColor";
             this.TargetEnemyBoxColor.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.TargetEnemyBoxColor.Size = new System.Drawing.Size(63, 21);
-            this.TargetEnemyBoxColor.TabIndex = 1;
+            this.TargetEnemyBoxColor.TabIndex = 32;
             // 
             // TEBoxCheck
             // 
@@ -454,7 +457,7 @@
             this.TEBoxCheck.Location = new System.Drawing.Point(6, 19);
             this.TEBoxCheck.Name = "TEBoxCheck";
             this.TEBoxCheck.Size = new System.Drawing.Size(59, 17);
-            this.TEBoxCheck.TabIndex = 0;
+            this.TEBoxCheck.TabIndex = 31;
             this.TEBoxCheck.Text = "Enable";
             this.TEBoxCheck.UseVisualStyleBackColor = true;
             // 
@@ -481,18 +484,18 @@
             this.FriendlySnapLineOutlineWidth.Location = new System.Drawing.Point(127, 95);
             this.FriendlySnapLineOutlineWidth.Name = "FriendlySnapLineOutlineWidth";
             this.FriendlySnapLineOutlineWidth.Size = new System.Drawing.Size(63, 20);
-            this.FriendlySnapLineOutlineWidth.TabIndex = 17;
+            this.FriendlySnapLineOutlineWidth.TabIndex = 24;
             // 
             // FriendlySnapLineOutlineColor
             // 
             this.FriendlySnapLineOutlineColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.FriendlySnapLineOutlineColor.DropDownWidth = 151;
+            this.FriendlySnapLineOutlineColor.DropDownWidth = 130;
             this.FriendlySnapLineOutlineColor.FormattingEnabled = true;
             this.FriendlySnapLineOutlineColor.Location = new System.Drawing.Point(127, 69);
             this.FriendlySnapLineOutlineColor.Name = "FriendlySnapLineOutlineColor";
             this.FriendlySnapLineOutlineColor.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.FriendlySnapLineOutlineColor.Size = new System.Drawing.Size(63, 21);
-            this.FriendlySnapLineOutlineColor.TabIndex = 16;
+            this.FriendlySnapLineOutlineColor.TabIndex = 23;
             // 
             // label14
             // 
@@ -526,7 +529,7 @@
             this.FriendlySnapLineWidth.Location = new System.Drawing.Point(127, 122);
             this.FriendlySnapLineWidth.Name = "FriendlySnapLineWidth";
             this.FriendlySnapLineWidth.Size = new System.Drawing.Size(63, 20);
-            this.FriendlySnapLineWidth.TabIndex = 4;
+            this.FriendlySnapLineWidth.TabIndex = 25;
             // 
             // label16
             // 
@@ -540,13 +543,13 @@
             // FriendlySnapLineColor
             // 
             this.FriendlySnapLineColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.FriendlySnapLineColor.DropDownWidth = 151;
+            this.FriendlySnapLineColor.DropDownWidth = 130;
             this.FriendlySnapLineColor.FormattingEnabled = true;
             this.FriendlySnapLineColor.Location = new System.Drawing.Point(127, 42);
             this.FriendlySnapLineColor.Name = "FriendlySnapLineColor";
             this.FriendlySnapLineColor.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.FriendlySnapLineColor.Size = new System.Drawing.Size(63, 21);
-            this.FriendlySnapLineColor.TabIndex = 1;
+            this.FriendlySnapLineColor.TabIndex = 22;
             // 
             // FriendlySnapLinesCheck
             // 
@@ -554,7 +557,7 @@
             this.FriendlySnapLinesCheck.Location = new System.Drawing.Point(6, 19);
             this.FriendlySnapLinesCheck.Name = "FriendlySnapLinesCheck";
             this.FriendlySnapLinesCheck.Size = new System.Drawing.Size(59, 17);
-            this.FriendlySnapLinesCheck.TabIndex = 0;
+            this.FriendlySnapLinesCheck.TabIndex = 21;
             this.FriendlySnapLinesCheck.Text = "Enable";
             this.FriendlySnapLinesCheck.UseVisualStyleBackColor = true;
             // 
@@ -581,18 +584,18 @@
             this.TargetEnemySnapLineOutlineWidth.Location = new System.Drawing.Point(127, 95);
             this.TargetEnemySnapLineOutlineWidth.Name = "TargetEnemySnapLineOutlineWidth";
             this.TargetEnemySnapLineOutlineWidth.Size = new System.Drawing.Size(63, 20);
-            this.TargetEnemySnapLineOutlineWidth.TabIndex = 18;
+            this.TargetEnemySnapLineOutlineWidth.TabIndex = 39;
             // 
             // TargetEnemySnapLineOutlineColor
             // 
             this.TargetEnemySnapLineOutlineColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.TargetEnemySnapLineOutlineColor.DropDownWidth = 151;
+            this.TargetEnemySnapLineOutlineColor.DropDownWidth = 130;
             this.TargetEnemySnapLineOutlineColor.FormattingEnabled = true;
             this.TargetEnemySnapLineOutlineColor.Location = new System.Drawing.Point(127, 68);
             this.TargetEnemySnapLineOutlineColor.Name = "TargetEnemySnapLineOutlineColor";
             this.TargetEnemySnapLineOutlineColor.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.TargetEnemySnapLineOutlineColor.Size = new System.Drawing.Size(63, 21);
-            this.TargetEnemySnapLineOutlineColor.TabIndex = 17;
+            this.TargetEnemySnapLineOutlineColor.TabIndex = 38;
             // 
             // label10
             // 
@@ -608,7 +611,7 @@
             this.TargetEnemySnapLineWidth.Location = new System.Drawing.Point(127, 122);
             this.TargetEnemySnapLineWidth.Name = "TargetEnemySnapLineWidth";
             this.TargetEnemySnapLineWidth.Size = new System.Drawing.Size(63, 20);
-            this.TargetEnemySnapLineWidth.TabIndex = 4;
+            this.TargetEnemySnapLineWidth.TabIndex = 40;
             // 
             // label11
             // 
@@ -640,13 +643,13 @@
             // TargetEnemySnapLineColor
             // 
             this.TargetEnemySnapLineColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.TargetEnemySnapLineColor.DropDownWidth = 151;
+            this.TargetEnemySnapLineColor.DropDownWidth = 130;
             this.TargetEnemySnapLineColor.FormattingEnabled = true;
             this.TargetEnemySnapLineColor.Location = new System.Drawing.Point(127, 42);
             this.TargetEnemySnapLineColor.Name = "TargetEnemySnapLineColor";
             this.TargetEnemySnapLineColor.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.TargetEnemySnapLineColor.Size = new System.Drawing.Size(63, 21);
-            this.TargetEnemySnapLineColor.TabIndex = 1;
+            this.TargetEnemySnapLineColor.TabIndex = 37;
             // 
             // TargetSnapLineCheck
             // 
@@ -654,7 +657,7 @@
             this.TargetSnapLineCheck.Location = new System.Drawing.Point(6, 19);
             this.TargetSnapLineCheck.Name = "TargetSnapLineCheck";
             this.TargetSnapLineCheck.Size = new System.Drawing.Size(59, 17);
-            this.TargetSnapLineCheck.TabIndex = 0;
+            this.TargetSnapLineCheck.TabIndex = 36;
             this.TargetSnapLineCheck.Text = "Enable";
             this.TargetSnapLineCheck.UseVisualStyleBackColor = true;
             // 
@@ -681,7 +684,7 @@
             // EnemyHealthBarFrontColor
             // 
             this.EnemyHealthBarFrontColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.EnemyHealthBarFrontColor.DropDownWidth = 151;
+            this.EnemyHealthBarFrontColor.DropDownWidth = 130;
             this.EnemyHealthBarFrontColor.FormattingEnabled = true;
             this.EnemyHealthBarFrontColor.Items.AddRange(new object[] {
             "sdffffffffffffffffffffffffffffffffffffffffffff",
@@ -690,7 +693,7 @@
             this.EnemyHealthBarFrontColor.Name = "EnemyHealthBarFrontColor";
             this.EnemyHealthBarFrontColor.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.EnemyHealthBarFrontColor.Size = new System.Drawing.Size(63, 21);
-            this.EnemyHealthBarFrontColor.TabIndex = 25;
+            this.EnemyHealthBarFrontColor.TabIndex = 43;
             // 
             // label7
             // 
@@ -706,7 +709,7 @@
             this.EnemyHealthBarWidth.Location = new System.Drawing.Point(127, 148);
             this.EnemyHealthBarWidth.Name = "EnemyHealthBarWidth";
             this.EnemyHealthBarWidth.Size = new System.Drawing.Size(63, 20);
-            this.EnemyHealthBarWidth.TabIndex = 23;
+            this.EnemyHealthBarWidth.TabIndex = 46;
             // 
             // label21
             // 
@@ -722,7 +725,7 @@
             this.EnemyHealthBarOutlineWidth.Location = new System.Drawing.Point(127, 122);
             this.EnemyHealthBarOutlineWidth.Name = "EnemyHealthBarOutlineWidth";
             this.EnemyHealthBarOutlineWidth.Size = new System.Drawing.Size(63, 20);
-            this.EnemyHealthBarOutlineWidth.TabIndex = 4;
+            this.EnemyHealthBarOutlineWidth.TabIndex = 45;
             // 
             // label22
             // 
@@ -735,11 +738,12 @@
             // 
             // EnemyHealthBarOutlineColor
             // 
+            this.EnemyHealthBarOutlineColor.DropDownWidth = 130;
             this.EnemyHealthBarOutlineColor.FormattingEnabled = true;
             this.EnemyHealthBarOutlineColor.Location = new System.Drawing.Point(127, 95);
             this.EnemyHealthBarOutlineColor.Name = "EnemyHealthBarOutlineColor";
             this.EnemyHealthBarOutlineColor.Size = new System.Drawing.Size(63, 21);
-            this.EnemyHealthBarOutlineColor.TabIndex = 3;
+            this.EnemyHealthBarOutlineColor.TabIndex = 44;
             // 
             // label23
             // 
@@ -762,13 +766,13 @@
             // EnemyHealthBarBackColor
             // 
             this.EnemyHealthBarBackColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.EnemyHealthBarBackColor.DropDownWidth = 151;
+            this.EnemyHealthBarBackColor.DropDownWidth = 130;
             this.EnemyHealthBarBackColor.FormattingEnabled = true;
             this.EnemyHealthBarBackColor.Location = new System.Drawing.Point(127, 42);
             this.EnemyHealthBarBackColor.Name = "EnemyHealthBarBackColor";
             this.EnemyHealthBarBackColor.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.EnemyHealthBarBackColor.Size = new System.Drawing.Size(63, 21);
-            this.EnemyHealthBarBackColor.TabIndex = 1;
+            this.EnemyHealthBarBackColor.TabIndex = 42;
             // 
             // EnemyHealthBarCheck
             // 
@@ -776,7 +780,7 @@
             this.EnemyHealthBarCheck.Location = new System.Drawing.Point(6, 19);
             this.EnemyHealthBarCheck.Name = "EnemyHealthBarCheck";
             this.EnemyHealthBarCheck.Size = new System.Drawing.Size(59, 17);
-            this.EnemyHealthBarCheck.TabIndex = 0;
+            this.EnemyHealthBarCheck.TabIndex = 41;
             this.EnemyHealthBarCheck.Text = "Enable";
             this.EnemyHealthBarCheck.UseVisualStyleBackColor = true;
             // 
@@ -801,20 +805,20 @@
             // EnemySnapLineOutlineColor
             // 
             this.EnemySnapLineOutlineColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.EnemySnapLineOutlineColor.DropDownWidth = 151;
+            this.EnemySnapLineOutlineColor.DropDownWidth = 130;
             this.EnemySnapLineOutlineColor.FormattingEnabled = true;
             this.EnemySnapLineOutlineColor.Location = new System.Drawing.Point(126, 69);
             this.EnemySnapLineOutlineColor.Name = "EnemySnapLineOutlineColor";
             this.EnemySnapLineOutlineColor.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.EnemySnapLineOutlineColor.Size = new System.Drawing.Size(63, 21);
-            this.EnemySnapLineOutlineColor.TabIndex = 28;
+            this.EnemySnapLineOutlineColor.TabIndex = 8;
             // 
             // EnemySnapLineOutlineWidth
             // 
             this.EnemySnapLineOutlineWidth.Location = new System.Drawing.Point(126, 95);
             this.EnemySnapLineOutlineWidth.Name = "EnemySnapLineOutlineWidth";
             this.EnemySnapLineOutlineWidth.Size = new System.Drawing.Size(63, 20);
-            this.EnemySnapLineOutlineWidth.TabIndex = 27;
+            this.EnemySnapLineOutlineWidth.TabIndex = 9;
             // 
             // label25
             // 
@@ -830,7 +834,7 @@
             this.EnemySnapLineWidth.Location = new System.Drawing.Point(126, 122);
             this.EnemySnapLineWidth.Name = "EnemySnapLineWidth";
             this.EnemySnapLineWidth.Size = new System.Drawing.Size(63, 20);
-            this.EnemySnapLineWidth.TabIndex = 4;
+            this.EnemySnapLineWidth.TabIndex = 10;
             // 
             // ESnapLineOutlineWidth
             // 
@@ -862,13 +866,13 @@
             // EnemySnapLineColor
             // 
             this.EnemySnapLineColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.EnemySnapLineColor.DropDownWidth = 151;
+            this.EnemySnapLineColor.DropDownWidth = 130;
             this.EnemySnapLineColor.FormattingEnabled = true;
             this.EnemySnapLineColor.Location = new System.Drawing.Point(126, 42);
             this.EnemySnapLineColor.Name = "EnemySnapLineColor";
             this.EnemySnapLineColor.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.EnemySnapLineColor.Size = new System.Drawing.Size(63, 21);
-            this.EnemySnapLineColor.TabIndex = 1;
+            this.EnemySnapLineColor.TabIndex = 7;
             // 
             // ESnapCheck
             // 
@@ -876,7 +880,7 @@
             this.ESnapCheck.Location = new System.Drawing.Point(6, 19);
             this.ESnapCheck.Name = "ESnapCheck";
             this.ESnapCheck.Size = new System.Drawing.Size(59, 17);
-            this.ESnapCheck.TabIndex = 0;
+            this.ESnapCheck.TabIndex = 6;
             this.ESnapCheck.Text = "Enable";
             this.ESnapCheck.UseVisualStyleBackColor = true;
             // 
@@ -903,13 +907,13 @@
             // FriendlyHealthBarFrontColor
             // 
             this.FriendlyHealthBarFrontColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.FriendlyHealthBarFrontColor.DropDownWidth = 151;
+            this.FriendlyHealthBarFrontColor.DropDownWidth = 130;
             this.FriendlyHealthBarFrontColor.FormattingEnabled = true;
             this.FriendlyHealthBarFrontColor.Location = new System.Drawing.Point(127, 69);
             this.FriendlyHealthBarFrontColor.Name = "FriendlyHealthBarFrontColor";
             this.FriendlyHealthBarFrontColor.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.FriendlyHealthBarFrontColor.Size = new System.Drawing.Size(63, 21);
-            this.FriendlyHealthBarFrontColor.TabIndex = 33;
+            this.FriendlyHealthBarFrontColor.TabIndex = 49;
             // 
             // label26
             // 
@@ -925,7 +929,7 @@
             this.FriendlyHealthBarWidth.Location = new System.Drawing.Point(127, 148);
             this.FriendlyHealthBarWidth.Name = "FriendlyHealthBarWidth";
             this.FriendlyHealthBarWidth.Size = new System.Drawing.Size(63, 20);
-            this.FriendlyHealthBarWidth.TabIndex = 31;
+            this.FriendlyHealthBarWidth.TabIndex = 52;
             // 
             // label29
             // 
@@ -941,7 +945,7 @@
             this.FriendlyHealthBarOutlineWidth.Location = new System.Drawing.Point(127, 122);
             this.FriendlyHealthBarOutlineWidth.Name = "FriendlyHealthBarOutlineWidth";
             this.FriendlyHealthBarOutlineWidth.Size = new System.Drawing.Size(63, 20);
-            this.FriendlyHealthBarOutlineWidth.TabIndex = 4;
+            this.FriendlyHealthBarOutlineWidth.TabIndex = 51;
             // 
             // label30
             // 
@@ -954,11 +958,12 @@
             // 
             // FriendlyHealthBarOutlineColor
             // 
+            this.FriendlyHealthBarOutlineColor.DropDownWidth = 130;
             this.FriendlyHealthBarOutlineColor.FormattingEnabled = true;
             this.FriendlyHealthBarOutlineColor.Location = new System.Drawing.Point(127, 95);
             this.FriendlyHealthBarOutlineColor.Name = "FriendlyHealthBarOutlineColor";
             this.FriendlyHealthBarOutlineColor.Size = new System.Drawing.Size(63, 21);
-            this.FriendlyHealthBarOutlineColor.TabIndex = 3;
+            this.FriendlyHealthBarOutlineColor.TabIndex = 50;
             // 
             // label31
             // 
@@ -981,13 +986,13 @@
             // FriendlyHealthBarBackColor
             // 
             this.FriendlyHealthBarBackColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.FriendlyHealthBarBackColor.DropDownWidth = 151;
+            this.FriendlyHealthBarBackColor.DropDownWidth = 130;
             this.FriendlyHealthBarBackColor.FormattingEnabled = true;
             this.FriendlyHealthBarBackColor.Location = new System.Drawing.Point(127, 42);
             this.FriendlyHealthBarBackColor.Name = "FriendlyHealthBarBackColor";
             this.FriendlyHealthBarBackColor.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.FriendlyHealthBarBackColor.Size = new System.Drawing.Size(63, 21);
-            this.FriendlyHealthBarBackColor.TabIndex = 1;
+            this.FriendlyHealthBarBackColor.TabIndex = 48;
             // 
             // FHealthBarCheck
             // 
@@ -995,7 +1000,7 @@
             this.FHealthBarCheck.Location = new System.Drawing.Point(6, 19);
             this.FHealthBarCheck.Name = "FHealthBarCheck";
             this.FHealthBarCheck.Size = new System.Drawing.Size(59, 17);
-            this.FHealthBarCheck.TabIndex = 0;
+            this.FHealthBarCheck.TabIndex = 47;
             this.FHealthBarCheck.Text = "Enable";
             this.FHealthBarCheck.UseVisualStyleBackColor = true;
             // 
@@ -1022,7 +1027,7 @@
             this.EnemyTargetBoneMarkerSize.Location = new System.Drawing.Point(126, 95);
             this.EnemyTargetBoneMarkerSize.Name = "EnemyTargetBoneMarkerSize";
             this.EnemyTargetBoneMarkerSize.Size = new System.Drawing.Size(63, 20);
-            this.EnemyTargetBoneMarkerSize.TabIndex = 28;
+            this.EnemyTargetBoneMarkerSize.TabIndex = 14;
             // 
             // label32
             // 
@@ -1039,7 +1044,7 @@
             this.ETargetBoneMarkerCheck.Location = new System.Drawing.Point(6, 19);
             this.ETargetBoneMarkerCheck.Name = "ETargetBoneMarkerCheck";
             this.ETargetBoneMarkerCheck.Size = new System.Drawing.Size(59, 17);
-            this.ETargetBoneMarkerCheck.TabIndex = 19;
+            this.ETargetBoneMarkerCheck.TabIndex = 11;
             this.ETargetBoneMarkerCheck.Text = "Enable";
             this.ETargetBoneMarkerCheck.UseVisualStyleBackColor = true;
             // 
@@ -1055,27 +1060,27 @@
             // EnemyTargetBoneMarkerColor
             // 
             this.EnemyTargetBoneMarkerColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.EnemyTargetBoneMarkerColor.DropDownWidth = 151;
+            this.EnemyTargetBoneMarkerColor.DropDownWidth = 130;
             this.EnemyTargetBoneMarkerColor.FormattingEnabled = true;
             this.EnemyTargetBoneMarkerColor.Location = new System.Drawing.Point(126, 42);
             this.EnemyTargetBoneMarkerColor.Name = "EnemyTargetBoneMarkerColor";
             this.EnemyTargetBoneMarkerColor.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.EnemyTargetBoneMarkerColor.Size = new System.Drawing.Size(63, 21);
-            this.EnemyTargetBoneMarkerColor.TabIndex = 20;
+            this.EnemyTargetBoneMarkerColor.TabIndex = 12;
             // 
             // EnemyTargetBoneMarkerType
             // 
             this.EnemyTargetBoneMarkerType.Location = new System.Drawing.Point(126, 122);
             this.EnemyTargetBoneMarkerType.Name = "EnemyTargetBoneMarkerType";
             this.EnemyTargetBoneMarkerType.Size = new System.Drawing.Size(63, 20);
-            this.EnemyTargetBoneMarkerType.TabIndex = 23;
+            this.EnemyTargetBoneMarkerType.TabIndex = 15;
             // 
             // EnemyTargetBoneMarkerLineWidth
             // 
             this.EnemyTargetBoneMarkerLineWidth.Location = new System.Drawing.Point(126, 69);
             this.EnemyTargetBoneMarkerLineWidth.Name = "EnemyTargetBoneMarkerLineWidth";
             this.EnemyTargetBoneMarkerLineWidth.Size = new System.Drawing.Size(63, 20);
-            this.EnemyTargetBoneMarkerLineWidth.TabIndex = 21;
+            this.EnemyTargetBoneMarkerLineWidth.TabIndex = 13;
             // 
             // label34
             // 
@@ -1135,7 +1140,7 @@
             this.FtargetBoneMarkerCheck.Location = new System.Drawing.Point(6, 19);
             this.FtargetBoneMarkerCheck.Name = "FtargetBoneMarkerCheck";
             this.FtargetBoneMarkerCheck.Size = new System.Drawing.Size(59, 17);
-            this.FtargetBoneMarkerCheck.TabIndex = 19;
+            this.FtargetBoneMarkerCheck.TabIndex = 26;
             this.FtargetBoneMarkerCheck.Text = "Enable";
             this.FtargetBoneMarkerCheck.UseVisualStyleBackColor = true;
             // 
@@ -1151,27 +1156,27 @@
             // FriendlyTargetBoneMarkerColor
             // 
             this.FriendlyTargetBoneMarkerColor.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.FriendlyTargetBoneMarkerColor.DropDownWidth = 151;
+            this.FriendlyTargetBoneMarkerColor.DropDownWidth = 130;
             this.FriendlyTargetBoneMarkerColor.FormattingEnabled = true;
             this.FriendlyTargetBoneMarkerColor.Location = new System.Drawing.Point(126, 42);
             this.FriendlyTargetBoneMarkerColor.Name = "FriendlyTargetBoneMarkerColor";
             this.FriendlyTargetBoneMarkerColor.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.FriendlyTargetBoneMarkerColor.Size = new System.Drawing.Size(63, 21);
-            this.FriendlyTargetBoneMarkerColor.TabIndex = 20;
+            this.FriendlyTargetBoneMarkerColor.TabIndex = 27;
             // 
             // FriendlyTargetBoneMarkerType
             // 
             this.FriendlyTargetBoneMarkerType.Location = new System.Drawing.Point(126, 122);
             this.FriendlyTargetBoneMarkerType.Name = "FriendlyTargetBoneMarkerType";
             this.FriendlyTargetBoneMarkerType.Size = new System.Drawing.Size(63, 20);
-            this.FriendlyTargetBoneMarkerType.TabIndex = 23;
+            this.FriendlyTargetBoneMarkerType.TabIndex = 30;
             // 
             // FriendlyTargetBoneMarkerLineWidth
             // 
             this.FriendlyTargetBoneMarkerLineWidth.Location = new System.Drawing.Point(126, 69);
             this.FriendlyTargetBoneMarkerLineWidth.Name = "FriendlyTargetBoneMarkerLineWidth";
             this.FriendlyTargetBoneMarkerLineWidth.Size = new System.Drawing.Size(63, 20);
-            this.FriendlyTargetBoneMarkerLineWidth.TabIndex = 21;
+            this.FriendlyTargetBoneMarkerLineWidth.TabIndex = 28;
             // 
             // label38
             // 
@@ -1222,7 +1227,7 @@
             this.FriendlyDefuseKit.Location = new System.Drawing.Point(95, 180);
             this.FriendlyDefuseKit.Name = "FriendlyDefuseKit";
             this.FriendlyDefuseKit.Size = new System.Drawing.Size(78, 17);
-            this.FriendlyDefuseKit.TabIndex = 18;
+            this.FriendlyDefuseKit.TabIndex = 68;
             this.FriendlyDefuseKit.Text = "FDefuseKit";
             this.FriendlyDefuseKit.UseVisualStyleBackColor = true;
             // 
@@ -1232,7 +1237,7 @@
             this.EnemyDefuseKitCarrier.Location = new System.Drawing.Point(9, 180);
             this.EnemyDefuseKitCarrier.Name = "EnemyDefuseKitCarrier";
             this.EnemyDefuseKitCarrier.Size = new System.Drawing.Size(79, 17);
-            this.EnemyDefuseKitCarrier.TabIndex = 17;
+            this.EnemyDefuseKitCarrier.TabIndex = 60;
             this.EnemyDefuseKitCarrier.Text = "EDefuseKit";
             this.EnemyDefuseKitCarrier.UseVisualStyleBackColor = true;
             // 
@@ -1242,7 +1247,7 @@
             this.FriendlyBombCarrier.Location = new System.Drawing.Point(95, 157);
             this.FriendlyBombCarrier.Name = "FriendlyBombCarrier";
             this.FriendlyBombCarrier.Size = new System.Drawing.Size(89, 17);
-            this.FriendlyBombCarrier.TabIndex = 16;
+            this.FriendlyBombCarrier.TabIndex = 67;
             this.FriendlyBombCarrier.Text = "FBombCarrier";
             this.FriendlyBombCarrier.UseVisualStyleBackColor = true;
             // 
@@ -1252,7 +1257,7 @@
             this.EnemyBombCarrier.Location = new System.Drawing.Point(9, 157);
             this.EnemyBombCarrier.Name = "EnemyBombCarrier";
             this.EnemyBombCarrier.Size = new System.Drawing.Size(90, 17);
-            this.EnemyBombCarrier.TabIndex = 15;
+            this.EnemyBombCarrier.TabIndex = 59;
             this.EnemyBombCarrier.Text = "EBombCarrier";
             this.EnemyBombCarrier.UseVisualStyleBackColor = true;
             // 
@@ -1262,7 +1267,7 @@
             this.FriendlyRank.Location = new System.Drawing.Point(95, 134);
             this.FriendlyRank.Name = "FriendlyRank";
             this.FriendlyRank.Size = new System.Drawing.Size(58, 17);
-            this.FriendlyRank.TabIndex = 14;
+            this.FriendlyRank.TabIndex = 66;
             this.FriendlyRank.Text = "FRank";
             this.FriendlyRank.UseVisualStyleBackColor = true;
             // 
@@ -1272,7 +1277,7 @@
             this.EnemyRank.Location = new System.Drawing.Point(9, 134);
             this.EnemyRank.Name = "EnemyRank";
             this.EnemyRank.Size = new System.Drawing.Size(59, 17);
-            this.EnemyRank.TabIndex = 13;
+            this.EnemyRank.TabIndex = 58;
             this.EnemyRank.Text = "ERank";
             this.EnemyRank.UseVisualStyleBackColor = true;
             // 
@@ -1282,7 +1287,7 @@
             this.FriendlyKDRatio.Location = new System.Drawing.Point(95, 111);
             this.FriendlyKDRatio.Name = "FriendlyKDRatio";
             this.FriendlyKDRatio.Size = new System.Drawing.Size(72, 17);
-            this.FriendlyKDRatio.TabIndex = 12;
+            this.FriendlyKDRatio.TabIndex = 65;
             this.FriendlyKDRatio.Text = "FKDRatio";
             this.FriendlyKDRatio.UseVisualStyleBackColor = true;
             // 
@@ -1292,7 +1297,7 @@
             this.EnemyKDRatio.Location = new System.Drawing.Point(9, 111);
             this.EnemyKDRatio.Name = "EnemyKDRatio";
             this.EnemyKDRatio.Size = new System.Drawing.Size(73, 17);
-            this.EnemyKDRatio.TabIndex = 11;
+            this.EnemyKDRatio.TabIndex = 57;
             this.EnemyKDRatio.Text = "EKDRatio";
             this.EnemyKDRatio.UseVisualStyleBackColor = true;
             // 
@@ -1302,7 +1307,7 @@
             this.FriendlyDeaths.Location = new System.Drawing.Point(95, 88);
             this.FriendlyDeaths.Name = "FriendlyDeaths";
             this.FriendlyDeaths.Size = new System.Drawing.Size(66, 17);
-            this.FriendlyDeaths.TabIndex = 10;
+            this.FriendlyDeaths.TabIndex = 64;
             this.FriendlyDeaths.Text = "FDeaths";
             this.FriendlyDeaths.UseVisualStyleBackColor = true;
             // 
@@ -1312,7 +1317,7 @@
             this.EnemyDeaths.Location = new System.Drawing.Point(9, 88);
             this.EnemyDeaths.Name = "EnemyDeaths";
             this.EnemyDeaths.Size = new System.Drawing.Size(67, 17);
-            this.EnemyDeaths.TabIndex = 9;
+            this.EnemyDeaths.TabIndex = 56;
             this.EnemyDeaths.Text = "EDeaths";
             this.EnemyDeaths.UseVisualStyleBackColor = true;
             // 
@@ -1322,7 +1327,7 @@
             this.FriendlyKills.Location = new System.Drawing.Point(95, 65);
             this.FriendlyKills.Name = "FriendlyKills";
             this.FriendlyKills.Size = new System.Drawing.Size(50, 17);
-            this.FriendlyKills.TabIndex = 8;
+            this.FriendlyKills.TabIndex = 63;
             this.FriendlyKills.Text = "FKills";
             this.FriendlyKills.UseVisualStyleBackColor = true;
             // 
@@ -1332,7 +1337,7 @@
             this.EnemyKills.Location = new System.Drawing.Point(9, 65);
             this.EnemyKills.Name = "EnemyKills";
             this.EnemyKills.Size = new System.Drawing.Size(51, 17);
-            this.EnemyKills.TabIndex = 7;
+            this.EnemyKills.TabIndex = 55;
             this.EnemyKills.Text = "EKills";
             this.EnemyKills.UseVisualStyleBackColor = true;
             // 
@@ -1342,7 +1347,7 @@
             this.FriendlyHealthText.Location = new System.Drawing.Point(95, 42);
             this.FriendlyHealthText.Name = "FriendlyHealthText";
             this.FriendlyHealthText.Size = new System.Drawing.Size(84, 17);
-            this.FriendlyHealthText.TabIndex = 6;
+            this.FriendlyHealthText.TabIndex = 62;
             this.FriendlyHealthText.Text = "FHealthText";
             this.FriendlyHealthText.UseVisualStyleBackColor = true;
             // 
@@ -1352,7 +1357,7 @@
             this.EnemyHealthText.Location = new System.Drawing.Point(9, 42);
             this.EnemyHealthText.Name = "EnemyHealthText";
             this.EnemyHealthText.Size = new System.Drawing.Size(85, 17);
-            this.EnemyHealthText.TabIndex = 4;
+            this.EnemyHealthText.TabIndex = 54;
             this.EnemyHealthText.Text = "EHealthText";
             this.EnemyHealthText.UseVisualStyleBackColor = true;
             // 
@@ -1362,7 +1367,7 @@
             this.FriendlyName.Location = new System.Drawing.Point(95, 19);
             this.FriendlyName.Name = "FriendlyName";
             this.FriendlyName.Size = new System.Drawing.Size(60, 17);
-            this.FriendlyName.TabIndex = 2;
+            this.FriendlyName.TabIndex = 61;
             this.FriendlyName.Text = "FName";
             this.FriendlyName.UseVisualStyleBackColor = true;
             // 
@@ -1372,7 +1377,7 @@
             this.EnemyName.Location = new System.Drawing.Point(9, 19);
             this.EnemyName.Name = "EnemyName";
             this.EnemyName.Size = new System.Drawing.Size(61, 17);
-            this.EnemyName.TabIndex = 0;
+            this.EnemyName.TabIndex = 53;
             this.EnemyName.Text = "EName";
             this.EnemyName.UseVisualStyleBackColor = true;
             // 

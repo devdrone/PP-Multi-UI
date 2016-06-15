@@ -442,13 +442,13 @@ namespace Ui
             //utility.Editor(string.Format("EspSettings.RecoilMarkerOutlineWidth = {0}", (Temp)), string.Format("EspSettings.RecoilMarkerOutlineWidth = {0}", ));
             //utility.Editor(string.Format("EspSettings.RecoilMarkerSize = {0}", (Temp)), string.Format("EspSettings.RecoilMarkerSize = {0}", ));
             //utility.Editor(string.Format("EspSettings.RecoilMarkerType =  {0}", (Temp)), string.Format("EspSettings.RecoilMarkerType =  {0}", ));
-
         }
 
         private void SaveSetting_Click(object sender, EventArgs e)
         {
             save();
             MessageBox.Show("Saved", "DONE!");
+            SendKeys.Send("^{F1}");
         }
 
     }

@@ -80,6 +80,7 @@ namespace Ui
         {
             Save();
             MessageBox.Show("Saved", "DONE!");
+            SendKeys.Send("^{F1}");
         }
     }
 }
